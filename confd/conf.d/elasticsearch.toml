@@ -1,0 +1,6 @@
+[template]
+keys = [ "host_ip", "clustername" ]
+owner = "root"
+mode = "0644"
+src = "elasticsearch.yml.tmpl"
+dest = "/data/elasticsearch.yml"
